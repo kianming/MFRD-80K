@@ -8,7 +8,7 @@ A masked face dataset with 80,500 images of 161 subjects was collected, referred
 
 **Usage of Medical Mask Selfie Facial Recognition Database is limited to academic and non-commercial research purposes only.**
 
-You may download the MFRD-80K dataset [here](https://drive.google.com/file/d/10V3hsf3DQ3Mn-uYzSjFhb3VzsJjDysI3/view?usp=sharing). Please cite our [paper](http://www.engineeringletters.com/issues_v29/issue_4/EL_29_4_32.pdf) if you find this dataset useful for your research.
+You may download the MFRD-80K dataset [here](https://drive.google.com/file/d/1ReDDY7K9viSnnqIv-4sKC-ZRNWFearmZ/view?usp=sharing). Please cite our [paper](http://www.engineeringletters.com/issues_v29/issue_4/EL_29_4_32.pdf) if you use this dataset in your research.
 
 ```
 @article{lee2021mfrd80k,
