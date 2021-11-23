@@ -7,4 +7,4 @@ A masked face dataset with 80,500 images of 161 subjects was collected, referred
 
 To obtain a copy of the database, please contact Kian Ming Lim (kmlim[at]mmu[dot]edu[dot]my). 
 
-![MFRD-80K](https://github.com/kianming/MFRD-80K/blob/main/samples.png)
+<img src="https://github.com/kianming/MFRD-80K/blob/main/samples.png" width="464" height="314">
